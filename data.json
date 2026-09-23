@@ -1,0 +1,67 @@
+{
+  "name": "Mohammad Amin Farsa",
+  "job": "Computer Engineer / Network Admin",
+  "verified": true,
+  "bio": "من محمد امین فرسا هستم، دانشجوی مهندسی کامپیوتر و علاقه‌مند به دنیای شبکه و توسعه نرم‌افزار. هدفم ساختن محصولات کاربردی و مفید است و همیشه در مسیر یادگیری و پیشرفت هستم.",
+  "tags": ["Networking", "Engineering", "Open to work"],
+  "phones": [
+    { "label": "موبایل", "value": "+989053075028" }
+  ],
+  "emails": [
+    { "label": "کاری", "value": "mhmdamyfrsa2005@gmail.com" }
+  ],
+  "websites": [],
+  "social": {
+    "telegram": "Computer_MF_2005",
+    "whatsapp": "",
+    "instagram": "amin._.farsa",
+    "github": "mohamadfarsa",
+    "linkedin": "",
+    "twitter": ""
+  },
+  "location": {
+    "city": "Tehran, Iran",
+    "address": "Shahrak Valiasr",
+    "mapLink": ""
+  },
+  "music": {
+    "trackName": "",
+    "trackArtist": "",
+    "fileBase64": ""
+  },
+  "photoBase64": "",
+  "about": {
+    "skills": ["شبکه", "برنامه‌نویسی", "امنیت اطلاعات"],
+    "experience": "2+ سال",
+    "education": "مهندسی کامپیوتر",
+    "resumeLink": ""
+  },
+  "services": [
+    { "icon": "code", "title": "طراحی سایت", "subtitle": "سایت‌های مدرن و سریع" },
+    { "icon": "app", "title": "برنامه‌نویسی", "subtitle": "وب، موبایل و سایر پلتفرم‌ها" },
+    { "icon": "design", "title": "شبکه و امنیت", "subtitle": "پیکربندی و مشاوره شبکه" },
+    { "icon": "consult", "title": "مشاوره فنی", "subtitle": "راهکارهای هوشمندانه برای پروژه‌ها" }
+  ],
+  "portfolio": [
+    { "title": "Moharez VPN", "tags": ["Telegram Bot", "Infra"], "image": "", "link": "" },
+    { "title": "Moharez NFC Card", "tags": ["Web", "NFC"], "image": "", "link": "" }
+  ],
+  "theme": {
+    "cardColor": "#0d1117",
+    "heroColor": "#0d1117",
+    "accentPreset": "blue"
+  },
+  "toggles": {
+    "music": true,
+    "vcard": true,
+    "location": true,
+    "email": true,
+    "website": true,
+    "bio": true,
+    "about": true,
+    "services": true,
+    "portfolio": true,
+    "social": true,
+    "themePicker": true
+  }
+}
